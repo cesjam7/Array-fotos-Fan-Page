@@ -2,9 +2,9 @@ ARRAY CON FOTOS DE TUS FANPAGE PARA FACEBOOK
 ======================================
 
 Puqueño tutorial para tener las fotos de una fanpage para que lo puedas usar en una galería web.
-<br>
+<br><br>
 INSTRUCCION:
-<br>
+<br><br>
 1.- Subir el archivo phpcUrl.php al mismo directorio donde está el archivo de la galería.<br>
 2.- Obtener el ID de tu fanpage y configurar el archivo images.php reemplazar el 000000000000000.<br>
 3.- Si abres el archivo images.php verás las imágenes de cada albún con su nombre.<br>
