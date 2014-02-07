@@ -29,7 +29,6 @@ print_r($array_enlace[0]);
 
 
 // Si quieres solo la url de las imágenes puedes usar "str_replace"
-
 foreach($array_imagen[0] as $key => $imagen){
 
   $imagen1 = str_replace("<img width='125px' src='", "", $imagen);
