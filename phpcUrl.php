@@ -1,4 +1,6 @@
 <?php
+// NO MODIFICAR NADA DE ESTE CODIGO.
+
 class FacePageAlbum
 {
 		private $URL;
