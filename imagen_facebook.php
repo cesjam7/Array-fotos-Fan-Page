@@ -37,9 +37,6 @@ foreach($array_imagen[0] as $key => $imagen){
   echo "Url de imagen: ".$url_imagen."<br />" ;
   
 }
-  
-?>
-
 
 
 ?>
