@@ -38,7 +38,7 @@ foreach($array_imagen[0] as $key => $imagen){
   $imagen1 = str_replace("<img width='125px' src='", "", $imagen);
   $url_imagen = str_replace("' />", "", $imagen1);
   
-  echo "Url de imagen: ".$url_imagen."<br />" ;
+  echo "Url de imagen: ".$url_imagen."<br />" ; 
   
 }
 
